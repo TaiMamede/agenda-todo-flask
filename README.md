@@ -1,2 +1,2 @@
 # agenda-todo-flask
-This is a project for learning pourposes
+This is a project for Taina learning pourposes
